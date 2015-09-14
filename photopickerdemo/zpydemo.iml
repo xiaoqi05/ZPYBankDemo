@@ -95,6 +95,6 @@
     <orderEntry type="library" exported="" name="okio-1.5.0" level="project" />
     <orderEntry type="library" exported="" name="gson-2.2.1" level="project" />
     <orderEntry type="library" exported="" name="glide-3.6.0" level="project" />
-    <orderEntry type="module" module-name="PhotoPicker-PhotoPicker" exported="" />
+    <orderEntry type="module" module-name="ZPY-libs" exported="" />
   </component>
 </module>
